@@ -1,0 +1,25 @@
+{
+  "name": "google-search-rank",
+  "version": "0.0.2",
+  "description": "Google search rank",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hideack/google-search-rank.git"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "hideack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hideack/google-search-rank/issues"
+  },
+  "main": "lib/searchrank.js",
+  "homepage": "https://github.com/hideack/google-search-rank#readme",
+  "dependencies": {
+    "google-search": "0.0.4"
+  }
+}
