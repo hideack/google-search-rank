@@ -20,6 +20,6 @@
   "main": "lib/searchrank.js",
   "homepage": "https://github.com/hideack/google-search-rank#readme",
   "dependencies": {
-    "google-search": "0.0.4"
+    "google-search": "0.0.5"
   }
 }
