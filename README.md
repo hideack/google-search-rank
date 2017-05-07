@@ -1,4 +1,6 @@
 # google-search-rank
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hideack/google-search-rank.svg)](https://greenkeeper.io/)
 Get to Google search ranks.
 
 ## Install
